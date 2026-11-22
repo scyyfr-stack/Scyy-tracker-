@@ -1,0 +1,2 @@
+# Scyy-tracker-
+Anime tracker 
